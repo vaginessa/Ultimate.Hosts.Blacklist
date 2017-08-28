@@ -22,3 +22,7 @@ Tested domain: adult9.e.com
 No referer found for: com domains
 Tested domain: adult_classifieds.tripod.com
 ====================================================================================================
+====================================================================================================
+No referer found for: com domains
+Tested domain: adult_swing.tripod.com
+====================================================================================================
