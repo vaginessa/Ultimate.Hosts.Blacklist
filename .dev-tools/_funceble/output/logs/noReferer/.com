@@ -66,3 +66,7 @@ Tested domain: a_regulus.tripod.com
 No referer found for: com domains
 Tested domain: asbestos_dust.blogspot.com
 ====================================================================================================
+====================================================================================================
+No referer found for: com domains
+Tested domain: b3auty_qu33n.livejournal.com
+====================================================================================================
