@@ -54,3 +54,7 @@ Tested domain: anime_dudette.bravejournal.com
 No referer found for: com domains
 Tested domain: anus_eclate.lamarchande.com
 ====================================================================================================
+====================================================================================================
+No referer found for: com domains
+Tested domain: aprendendo_e_criando.queroumforum.com
+====================================================================================================
