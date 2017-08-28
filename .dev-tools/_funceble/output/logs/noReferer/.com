@@ -86,3 +86,7 @@ Tested domain: bbcita_linda_sexynireblogcom.nireblog.com
 No referer found for: com domains
 Tested domain: bdsm_lifestyle0.tripod.com
 ====================================================================================================
+====================================================================================================
+No referer found for: com domains
+Tested domain: beautifull_amateurs.ucgalleries.com
+====================================================================================================
