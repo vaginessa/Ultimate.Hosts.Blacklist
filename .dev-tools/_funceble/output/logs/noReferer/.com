@@ -46,3 +46,7 @@ Tested domain: amputated_vein.label.returntothepit.com
 No referer found for: com domains
 Tested domain: anal_sex.bluerider.com
 ====================================================================================================
+====================================================================================================
+No referer found for: com domains
+Tested domain: anime_dudette.bravejournal.com
+====================================================================================================
