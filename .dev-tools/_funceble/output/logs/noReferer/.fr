@@ -6,3 +6,7 @@ Tested domain: allosexe-.myblox.fr
 No referer found for: fr domains
 Tested domain: annuaire_charme.myblox.fr
 ====================================================================================================
+====================================================================================================
+No referer found for: fr domains
+Tested domain: baby_fanny.bookspace.fr
+====================================================================================================
