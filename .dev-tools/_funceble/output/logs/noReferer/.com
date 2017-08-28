@@ -34,3 +34,11 @@ Tested domain: alpha_romeo33.tripod.com
 No referer found for: com domains
 Tested domain: alyssa-.ifrance.com
 ====================================================================================================
+====================================================================================================
+No referer found for: com domains
+Tested domain: amelie_charleb.monblogue.branchez-vous.com
+====================================================================================================
+====================================================================================================
+No referer found for: com domains
+Tested domain: amputated_vein.label.returntothepit.com
+====================================================================================================
