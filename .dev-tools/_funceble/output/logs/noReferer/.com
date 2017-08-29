@@ -114,3 +114,7 @@ Tested domain: buyfluoxetine_i.wackwall.com
 No referer found for: com domains
 Tested domain: cavaleiros_joayd.queroumforum.com
 ====================================================================================================
+====================================================================================================
+No referer found for: com domains
+Tested domain: com
+====================================================================================================
