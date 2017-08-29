@@ -118,3 +118,7 @@ Tested domain: cavaleiros_joayd.queroumforum.com
 No referer found for: com domains
 Tested domain: com
 ====================================================================================================
+====================================================================================================
+No referer found for: com domains
+Tested domain: crash_davis.blogspot.com
+====================================================================================================
