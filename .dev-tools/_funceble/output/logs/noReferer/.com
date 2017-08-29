@@ -94,3 +94,7 @@ Tested domain: beautifull_amateurs.ucgalleries.com
 No referer found for: com domains
 Tested domain: b_grey.tripod.com
 ====================================================================================================
+====================================================================================================
+No referer found for: com domains
+Tested domain: black_hat_hacker.webobo.com
+====================================================================================================
