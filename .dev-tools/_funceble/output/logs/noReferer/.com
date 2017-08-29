@@ -98,3 +98,7 @@ Tested domain: b_grey.tripod.com
 No referer found for: com domains
 Tested domain: black_hat_hacker.webobo.com
 ====================================================================================================
+====================================================================================================
+No referer found for: com domains
+Tested domain: black_music.queroumforum.com
+====================================================================================================
