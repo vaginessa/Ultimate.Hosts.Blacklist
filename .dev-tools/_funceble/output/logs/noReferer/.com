@@ -222,3 +222,11 @@ Tested domain: free_sex_photos.free-picture-search.com
 No referer found for: com domains
 Tested domain: free_sex.twinks-twinks.com
 ====================================================================================================
+====================================================================================================
+No referer found for: com domains
+Tested domain: free_xxx_photos.free-picture-search.com
+====================================================================================================
+====================================================================================================
+No referer found for: com domains
+Tested domain: free_xxx_videos.free-picture-search.com
+====================================================================================================
