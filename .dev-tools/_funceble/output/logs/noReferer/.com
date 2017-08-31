@@ -138,3 +138,7 @@ Tested domain: elite_wayschool.queroumforum.com
 No referer found for: com domains
 Tested domain: envisioners_gallerys.ucgalleries.com
 ====================================================================================================
+====================================================================================================
+No referer found for: com domains
+Tested domain: escorts_pt.queroumforum.com
+====================================================================================================
