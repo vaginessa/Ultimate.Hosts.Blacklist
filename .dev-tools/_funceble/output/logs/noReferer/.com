@@ -166,3 +166,7 @@ Tested domain: filles_chaudes.vip-blog.com
 No referer found for: com domains
 Tested domain: foda_de_vida.blogspot.com
 ====================================================================================================
+====================================================================================================
+No referer found for: com domains
+Tested domain: forgotten_dark_angel.tripod.com
+====================================================================================================
