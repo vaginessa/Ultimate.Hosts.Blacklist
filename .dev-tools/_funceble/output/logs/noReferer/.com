@@ -154,3 +154,7 @@ Tested domain: extreme_games.queroumforum.com
 No referer found for: com domains
 Tested domain: familia_bohrer.queroumforum.com
 ====================================================================================================
+====================================================================================================
+No referer found for: com domains
+Tested domain: fast_race.queroumforum.com
+====================================================================================================
