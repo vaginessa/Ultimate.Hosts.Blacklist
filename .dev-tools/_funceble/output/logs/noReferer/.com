@@ -162,3 +162,7 @@ Tested domain: fast_race.queroumforum.com
 No referer found for: com domains
 Tested domain: filles_chaudes.vip-blog.com
 ====================================================================================================
+====================================================================================================
+No referer found for: com domains
+Tested domain: foda_de_vida.blogspot.com
+====================================================================================================
