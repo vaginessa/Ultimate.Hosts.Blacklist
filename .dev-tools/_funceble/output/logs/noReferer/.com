@@ -258,3 +258,7 @@ Tested domain: gays_lesbians_bisex.tripod.com
 No referer found for: com domains
 Tested domain: girl_and_escorte_call.entrejuegos.com
 ====================================================================================================
+====================================================================================================
+No referer found for: com domains
+Tested domain: hackers_claw_eng.queroumforum.com
+====================================================================================================
