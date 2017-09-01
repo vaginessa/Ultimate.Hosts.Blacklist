@@ -14,3 +14,7 @@ Tested domain: dorothy.kicks.ass.org
 No referer found for: org* domains
 Tested domain: javakiba.org*
 ====================================================================================================
+====================================================================================================
+No referer found for: org domains
+Tested domain: jeune_sexeamateur.blogg.org
+====================================================================================================
