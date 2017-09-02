@@ -18,3 +18,7 @@ Tested domain: javakiba.org*
 No referer found for: org domains
 Tested domain: jeune_sexeamateur.blogg.org
 ====================================================================================================
+====================================================================================================
+No referer found for: org domains
+Tested domain: ludo_aqua.freezee.org
+====================================================================================================
