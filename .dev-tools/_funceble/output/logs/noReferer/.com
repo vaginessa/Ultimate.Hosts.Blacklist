@@ -338,3 +338,7 @@ Tested domain: kg_sex.yurada.com
 No referer found for: com domains
 Tested domain: kimbo_stv_fanfic.tripod.com
 ====================================================================================================
+====================================================================================================
+No referer found for: com domains
+Tested domain: lando_mega_boobs.tripod.com
+====================================================================================================
