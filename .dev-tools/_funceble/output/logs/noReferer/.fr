@@ -38,3 +38,7 @@ Tested domain: knight_love.myblox.fr
 No referer found for: fr domains
 Tested domain: le_portail_de_sapho.myblox.fr
 ====================================================================================================
+====================================================================================================
+No referer found for: fr domains
+Tested domain: mily_modele.bookspace.fr
+====================================================================================================
