@@ -402,3 +402,7 @@ Tested domain: moloch_5.tripod.com
 No referer found for: com domains
 Tested domain: mr_eroboy.en.eresmas.com
 ====================================================================================================
+====================================================================================================
+No referer found for: com domains
+Tested domain: naruto_shippuuden.queroumforum.com
+====================================================================================================
