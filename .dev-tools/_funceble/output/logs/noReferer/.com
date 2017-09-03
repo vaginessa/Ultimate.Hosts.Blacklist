@@ -442,3 +442,7 @@ Tested domain: omi_tsukiyono4.tripod.com
 No referer found for: com domains
 Tested domain: o_thus.ero-advertising.com
 ====================================================================================================
+====================================================================================================
+No referer found for: com domains
+Tested domain: paris-.blogspot.com
+====================================================================================================

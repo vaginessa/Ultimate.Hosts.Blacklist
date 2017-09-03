@@ -10,3 +10,7 @@ Tested domain: asbestos_dust.blogspot.no
 No referer found for: no domains
 Tested domain: kats_surrender.blogspot.no
 ====================================================================================================
+====================================================================================================
+No referer found for: no domains
+Tested domain: paris-.blogspot.no
+====================================================================================================
