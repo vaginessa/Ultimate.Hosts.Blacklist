@@ -406,3 +406,7 @@ Tested domain: mr_eroboy.en.eresmas.com
 No referer found for: com domains
 Tested domain: naruto_shippuuden.queroumforum.com
 ====================================================================================================
+====================================================================================================
+No referer found for: com domains
+Tested domain: nude_twink.ucgalleries.com
+====================================================================================================
