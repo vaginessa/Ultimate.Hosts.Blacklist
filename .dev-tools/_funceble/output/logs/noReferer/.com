@@ -446,3 +446,7 @@ Tested domain: o_thus.ero-advertising.com
 No referer found for: com domains
 Tested domain: paris-.blogspot.com
 ====================================================================================================
+====================================================================================================
+No referer found for: com domains
+Tested domain: philadelphia_cbslocal.us.intellitxt.com
+====================================================================================================
