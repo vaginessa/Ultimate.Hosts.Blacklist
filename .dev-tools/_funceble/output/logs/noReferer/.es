@@ -30,3 +30,7 @@ Tested domain: porno_fotos.en.wanadoo.es
 No referer found for: es domains
 Tested domain: porno_negros.bpz.es
 ====================================================================================================
+====================================================================================================
+No referer found for: es domains
+Tested domain: seccion_adultos.comprar.hispavista.es
+====================================================================================================

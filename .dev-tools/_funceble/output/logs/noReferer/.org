@@ -26,3 +26,7 @@ Tested domain: ludo_aqua.freezee.org
 No referer found for: org domains
 Tested domain: safe_sex.und.eyersee.org
 ====================================================================================================
+====================================================================================================
+No referer found for: org domains
+Tested domain: secretarias_sofovich.lesb.yi.org
+====================================================================================================
