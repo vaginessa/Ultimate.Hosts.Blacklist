@@ -6,3 +6,7 @@ Tested domain: fgts.gov.br.trabalhador.servicos_online.saldo_fgts.asp.cr27525.tm
 No referer found for: ru domains
 Tested domain: google_yahoo.chat.ru
 ====================================================================================================
+====================================================================================================
+No referer found for: ru domains
+Tested domain: rambler_yahoo.chat.ru
+====================================================================================================
