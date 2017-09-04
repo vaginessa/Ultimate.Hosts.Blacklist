@@ -470,3 +470,7 @@ Tested domain: qute_sex.yumicha.com
 No referer found for: com domains
 Tested domain: sabrina_c.blogspot.com
 ====================================================================================================
+====================================================================================================
+No referer found for: com domains
+Tested domain: santas_crack_house.blogspot.com
+====================================================================================================
