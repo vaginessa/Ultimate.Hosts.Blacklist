@@ -634,3 +634,7 @@ Tested domain: swinger_wife.tripod.com
 No referer found for: com domains
 Tested domain: swinging_couples.tripod.com
 ====================================================================================================
+====================================================================================================
+No referer found for: com domains
+Tested domain: tgp_list.com
+====================================================================================================
