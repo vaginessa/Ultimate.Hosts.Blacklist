@@ -610,3 +610,7 @@ Tested domain: star_aria.metropoliglobal.com
 No referer found for: com domains
 Tested domain: stincomeau_family.queroumforum.com
 ====================================================================================================
+====================================================================================================
+No referer found for: com domains
+Tested domain: strange_land_2001.tripod.com
+====================================================================================================
