@@ -654,3 +654,7 @@ Tested domain: videos_pics_anims_liens.tunofollas.com
 No referer found for: com domains
 Tested domain: w1_sexxxx_short-ru43.fewworld.com
 ====================================================================================================
+====================================================================================================
+No referer found for: com domains
+Tested domain: wisdom_born.blogspot.com
+====================================================================================================
