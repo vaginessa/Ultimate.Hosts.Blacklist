@@ -54,3 +54,7 @@ Tested domain: norbert_sirot.club.fr
 No referer found for: fr domains
 Tested domain: tiyah_model.bookspace.fr
 ====================================================================================================
+====================================================================================================
+No referer found for: fr domains
+Tested domain: vidz_x_gratuit.myblox.fr
+====================================================================================================
