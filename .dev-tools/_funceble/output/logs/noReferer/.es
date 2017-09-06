@@ -42,3 +42,7 @@ Tested domain: video_gratis_porno.bpz.es
 No referer found for: es domains
 Tested domain: video_porno_32.en.wanadoo.es
 ====================================================================================================
+====================================================================================================
+No referer found for: es domains
+Tested domain: webcam_sexo.espanacams.es
+====================================================================================================
