@@ -14,3 +14,7 @@ Tested domain: rambler_yahoo.chat.ru
 No referer found for: ru domains
 Tested domain: w-free_porno.odal.ru
 ====================================================================================================
+====================================================================================================
+No referer found for: ru domains
+Tested domain: w-sex_beautiful_woman_erotic_porno.odal.ru
+====================================================================================================
