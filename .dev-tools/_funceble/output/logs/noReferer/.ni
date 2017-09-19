@@ -1,12 +1,8 @@
 ====================================================================================================
-No referer found for: yu domains
-Tested domain: adonis.telekom.yu
+No referer found for: ni domains
+Tested domain: cdn.dns2.alfanumeric.com.ni
 ====================================================================================================
 ====================================================================================================
-No referer found for: yu domains
-Tested domain: cdn.adonis.telekom.yu
-====================================================================================================
-====================================================================================================
-No referer found for: yu domains
-Tested domain: cdn.dns.yunac.yu
+No referer found for: ni domains
+Tested domain: cdn.eclipse.cablenet.com.ni
 ====================================================================================================
