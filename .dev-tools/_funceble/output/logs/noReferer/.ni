@@ -18,3 +18,7 @@ Tested domain: cdn.ns.cablenet.com.ni
 No referer found for: ni domains
 Tested domain: dns2.alfanumeric.com.ni
 ====================================================================================================
+====================================================================================================
+No referer found for: ni domains
+Tested domain: eclipse.cablenet.com.ni
+====================================================================================================
